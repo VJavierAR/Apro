@@ -2,3 +2,8 @@
 	path = VJavierAR/Apro
 	url = git@github.com:VJavierAR/Apro.git
 	branch = master
+
+[submodule "VJavierAR/A-Pro"]
+	path = VJavierAR/A-Pro
+	url = git@github.com:VJavierAR/A-Pro.git
+	branch = master

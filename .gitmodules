@@ -2,3 +2,8 @@
 	path = VJavierAR/A-Pro
 	url = git@github.com:VJavierAR/A-Pro.git
 	branch = master
+
+[submodule "OCA/knowledge"]
+	path = OCA/knowledge
+	url = git@github.com:OCA/knowledge.git
+	branch = 12.0

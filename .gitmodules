@@ -2,3 +2,8 @@
 	path = VJavierAR/A-Pro
 	url = git@github.com:VJavierAR/A-Pro.git
 	branch = master
+
+[submodule "VJavierAR/requisicion"]
+	path = VJavierAR/requisicion
+	url = git@github.com:VJavierAR/requisicion.git
+	branch = master

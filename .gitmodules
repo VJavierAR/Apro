@@ -7,3 +7,8 @@
 	path = OCA/knowledge
 	url = git@github.com:OCA/knowledge.git
 	branch = 12.0
+
+[submodule "VJavierAR/requisicion"]
+	path = VJavierAR/requisicion
+	url = git@github.com:VJavierAR/requisicion.git
+	branch = master
